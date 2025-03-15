@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Warna Tema Baru -->
+    <color name="primaryColor">#3F51B5</color>      <!-- Biru Indigo -->
+    <color name="primaryLightColor">#7986CB</color>
+    <color name="primaryDarkColor">#303F9F</color>
+    <color name="secondaryColor">#FF5722</color>    <!-- Orange -->
+    <color name="secondaryLightColor">#FF8A65</color>
+    <color name="secondaryDarkColor">#E64A19</color>
+    <color name="accentColor">#FF4081</color>       <!-- Pink -->
+    <color name="backgroundColor">#F5F5F5</color>  <!-- Abu-abu Muda -->
+    <color name="textColorPrimary">#212121</color>    <!-- Abu-abu Gelap -->
+    <color name="textColorSecondary">#757575</color>  <!-- Abu-abu Sedang -->
+    <color name="dividerColor">#BDBDBD</color>
+</resources>

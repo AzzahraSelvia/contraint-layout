@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Finance App</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_activity_add_transaction">AddTransactionActivity</string>
+    <string name="title_activity_report">ReportActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string-array name="transaction_types">
+        <item>Pemasukan</item>
+        <item>Pengeluaran</item>
+    </string-array>
+
+    <string-array name="transaction_categories">
+        <item>Makanan</item>
+        <item>Transportasi</item>
+        <item>Gaji</item>
+        <item>Lainnya</item>
+    </string-array>
+</resources>
